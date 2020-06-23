@@ -39,7 +39,7 @@ Source Code Of Identification Of Pills Using Deep Learning
 6. Imprint Classification
    1) Process of Imprint Classification
    
-   ![image](https://user-images.githubusercontent.com/45959329/85351031-ad19c080-b53d-11ea-974f-6365be0234af.png)
+   ![image](https://user-images.githubusercontent.com/45959329/85351723-5e6d2600-b53f-11ea-8f67-96287e79e772.png)
    
    2) Preprocess of Imprint
       - Train/Imprint/Utils/ExcuteCroping
