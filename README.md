@@ -57,4 +57,4 @@ Source Code Of Identification Of Pills Using Deep Learning
       ![image](https://user-images.githubusercontent.com/45959329/85364493-3345ff00-b55e-11ea-80ea-04a256dd6c4a.png)
       
    2) Input the user image
-      - Test/FeatureExtraction.py
+      - Test/ExcutePillRecognization.py
