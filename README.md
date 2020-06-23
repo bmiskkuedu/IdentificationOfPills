@@ -28,3 +28,11 @@ Source Code Of Identification Of Pills Using Deep Learning
    
    3) Training the CNN Model
       - Train/Shape/ModelTraining.py
+      
+5. Color Classification
+   1) Classify the color of pills
+      - Train/Utils/ETCUtils.py/CopySameColors
+      - Example of classification in pill's color
+      
+   
+   ![image](https://user-images.githubusercontent.com/45959329/85350335-dafe0580-b53b-11ea-9c74-c0f185287f4c.png)
