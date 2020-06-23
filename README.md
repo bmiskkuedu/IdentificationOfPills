@@ -17,5 +17,14 @@ Source Code Of Identification Of Pills Using Deep Learning
 
 4. Shape Classification
    1) Classify the shape of pills
+      - Example of classification in pill's shapes
+      
+   ![image](https://user-images.githubusercontent.com/45959329/85349950-c40ae380-b53a-11ea-9ff3-05ff026c6618.png)
+   
    2) Excute binary process
+      - Train/Shape/ShapePreprocess.py
+      
+   ![image](https://user-images.githubusercontent.com/45959329/85349937-bce3d580-b53a-11ea-9784-be5173f7f002.png)
+   
    3) Training the CNN Model
+      - Train/Shape/ModelTraining.py
