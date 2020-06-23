@@ -1,4 +1,4 @@
-# IdentificationOfPills
+# Identification Of Pills
 Source Code Of Identification Of Pills Using Deep Learning 
 
 1. Purpose : Identification of pills using their pictures which are taken by Smartphone.
@@ -34,5 +34,18 @@ Source Code Of Identification Of Pills Using Deep Learning
       - Train/Utils/ETCUtils.py/CopySameColors
       - Example of classification in pill's color
       
-   
    ![image](https://user-images.githubusercontent.com/45959329/85350335-dafe0580-b53b-11ea-9c74-c0f185287f4c.png)
+   
+6. Imprint Classification
+   1) Process of Imprint Classification
+   
+   ![image](https://user-images.githubusercontent.com/45959329/85351031-ad19c080-b53d-11ea-974f-6365be0234af.png)
+   
+   2) Preprocess of Imprint
+      - Train/Imprint/Utils/ExcuteCroping
+   
+   ![image](https://user-images.githubusercontent.com/45959329/85351034-b014b100-b53d-11ea-9f46-97110c07ff88.png)
+   
+   3) Model Training
+      - Train/Imprint/ModelTraining.py 
+      - We use the exist model InceptionResnetV2.
