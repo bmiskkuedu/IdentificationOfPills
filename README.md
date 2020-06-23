@@ -15,3 +15,7 @@ Source Code Of Identification Of Pills Using Deep Learning
       
    ![image](https://user-images.githubusercontent.com/45959329/85349182-be140300-b538-11ea-90ab-bc1d8ff6c8b1.png)
 
+4. Shape Classification
+   1) Classify the shape of pills
+   2) Excute binary process
+   3) Training the CNN Model
