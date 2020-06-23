@@ -49,3 +49,12 @@ Source Code Of Identification Of Pills Using Deep Learning
    3) Model Training
       - Train/Imprint/ModelTraining.py 
       - We use the exist model InceptionResnetV2.
+
+7. Test
+   1) Make Lookup Table
+      - Example of Lookup table structure
+      
+      ![image](https://user-images.githubusercontent.com/45959329/85364493-3345ff00-b55e-11ea-80ea-04a256dd6c4a.png)
+      
+   2) Input the user image
+      - Test/FeatureExtraction.py
