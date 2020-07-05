@@ -58,3 +58,8 @@ Source Code Of Identification Of Pills Using Deep Learning
       
    2) Input the user image
       - Test/ExcutePillRecognization.py
+      
+8. Environment
+
+   The experiments and data analysis were carried out using Python 3.7.3 with the following openly available libraries: tensorflow 1.13.1, keras 2.2.4, 
+   sklearn 0.21.2, opencv 4.1.2, and numpy 1.17.0. The pre-trained weights models were based on the Keras neural network library available at https://keras.io/api/applications/. 
