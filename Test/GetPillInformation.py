@@ -111,4 +111,10 @@ def GetImprintImg(img, className, initX, maxX, initY, maxY, ShowFlag = False):
     # 이미지 크기를 정해진 크기로 변경한다.
     croppingImg = cv.resize(croppingImg, (Configuration.ImageSize, Configuration.ImageSize))
 
-    return  croppingImg
+        # black hat을 사용 할 경우
+    kernel = np.ones((14, 14), np.uint8)
+    blackhat = cv.morphologyEx(croppingImg, cv.MORPH_BLACKHAT, kernel)
+
+    retValue = blackhat #croppingImg
+    return  retValue
+    
